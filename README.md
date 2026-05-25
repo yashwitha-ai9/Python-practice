@@ -1,2 +1,2 @@
 # Python-practice
-My Python and AI learning practice 
+My Python and AI Learning Practice 
